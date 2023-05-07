@@ -1,0 +1,14 @@
+---------------------------
+Metodologías Tradicionales
+---------------------------
+Las metodologías tradicionales son denominadas, a veces, de forma despectiva, como metodologías pesadas. Centran su atención en llevar una documentación exhaustiva de todo el proyecto, la planificación y control del mismo, en especificaciones precisas de requisitos y modelado y en cumplir con un plan de trabajo, definido todo esto, en la fase inicial del desarrollo del proyecto.
+Estas metodologías tradicionales imponen una disciplina rigurosa de trabajo sobre el proceso de desarrollo del software, con el fin de conseguir un software más eficiente. Para ello, se hace énfasis en la planificación total de todo el trabajo a realizar y una vez que está todo detallado, comienza el ciclo de desarrollo del producto software. Se centran especialmente en el control del proceso, mediante una rigurosa definición de roles, actividades, artefactos, herramientas y notaciones para el modelado y documentación detallada. Además, las metodologías tradicionales no se adaptan adecuadamente a los cambios, por lo que no son métodos adecuados cuando se trabaja en un entorno, donde los requisitos no pueden predecirse o bien pueden variar.
+Otra de las características importantes dentro de este enfoque, son los altos costes al implementar un cambio y la falta de flexibilidad en proyectos donde el entorno es volátil.
+
+Tipos de metodologías tradicionales
+-----------------------------------
+- Espiral: Esta metodología permite un control preciso de los costos, recursos y potenciales riesgos del proyecto. Es permisiva con los cambios dado su carácter iterativo. Además, el cliente puede participar activamente en el proceso.
+- Cascada: Se caracteriza por ofrecer un proyecto bien estructurado y de robusta documentación. Permite una definición precisa de los requerimientos del proyecto. También, es ideal para proyectos pequeños y con objetivos simples.
+- Prototipo: Destaca por no precisar de requerimientos robustos o estables para iniciar el proyecto. Facilita la presentación de los resultados del proyecto a los clientes. Promueve un mayor acercamiento directo a las necesidades del cliente.
+- Incremental: En esta metodología el cliente puede cambiar los requerimientos del proyecto en cada iteración. Así mismo, este último puede usar el producto mucho antes de su entrega definitiva. El proceso de desarrollo es mucho más acelerado.
+- Desarrollo rápido de aplicaciones (RAD): Destaca por su flexibilidad y adaptabilidad a los cambios. El producto es fácil de trasladar a otros entornos. Además, cada etapa del proyecto prioriza las necesidades de los clientes.
